@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "webpricing.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1777,7 +1777,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-992.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-993.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1831,7 +1831,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-992.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-993.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1885,7 +1885,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-992.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-993.jpg",
               "link": "",
               "alt": "",
               "title": "",
