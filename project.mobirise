@@ -48,12 +48,12 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.1",
                 "overlayColor": "#553982",
                 "contentAlign": "center",
                 "showTitle": true,
@@ -65,8 +65,8 @@
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "image": "@PROJECT_PATH@/assets/images/img3-2000x1200-59.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayColor": "#475577",
@@ -80,6 +80,22 @@
               },
               {
                 "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img2-2000x1125-70.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#2b0680",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "CONTENT",
+                "showText": true,
+                "text": "content",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -140,13 +156,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#3d8eb9"
+              "color": "#fac51c"
             }
           },
           "title1": "WEB DEVELOPEMENT",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Our goal is not just &nbsp;to build &nbsp;your website but &nbsp;to build which would generate users interest &nbsp;which would capture your &nbsp;investors attention.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -156,13 +172,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#3d8eb9"
+              "color": "#fac51c"
             }
           },
           "title2": "RESPONSIVE",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "&nbsp;We create that are user friendly and can easily adapt to resolution of any device no matter what you and your customer are using.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -172,13 +188,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#3d8eb9"
+              "color": "#fac51c"
             }
           },
           "title3": "DIGITAL MARKETING",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Digital media marketing &nbsp;is an advantage as it has tremendous potential to increase sales.We act as catalyst to enable you reach the right audience.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -188,13 +204,13 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#3d8eb9"
+              "color": "#fac51c"
             }
           },
           "title4": "ECOMMERCE SOLUTIONS",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "&nbsp;We create end to end ecommerce that are hand in hand with your business website.We make your ecommerce website accesible to various platforms.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -260,7 +276,8 @@
             },
             "UL": {
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "contacts4-4",
@@ -276,8 +293,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail:digitwebs@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;</li><li><br></li><br></ul>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: digitweb@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;ABOUT US</li><li>CONTACT US</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "chowkek@gmail.com",
@@ -735,8 +752,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail:&nbsp;<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;</li><li>&nbsp;</li><li><br></li><br></ul>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: digitweb@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;ABOUT US</li><li>CONTACT US</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "chowkek@gmail.com",
@@ -965,8 +982,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail:&nbsp;<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;</li><li>&nbsp;</li><li><br></li><br></ul>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: digitweb@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;ABOUT US</li><li>CONTACT US</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "chowkek@gmail.com",
@@ -1350,7 +1367,7 @@
           "_anchor": "msg-box4-2i",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1366,14 +1383,14 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-99.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/css3html5jquerybootstrap-1400x504-66.png",
+              "link": "https://www.google.co.in/search?client=firefox-b-ab&biw=1366&bih=635&tbm=isch&q=html5+css3&sa=X&ved=0ahUKEwjk-PGM8cnRAhULto8KHSzWCtMQhyYIJw#imgdii=x4aPTpxwFd3AZM%3A%3Bx4aPTpxwFd3AZM%3A%3BAzNIKslIWpLZwM%3A&imgrc=x4aPTpxwFd3AZM%3A",
               "alt": "",
               "title": "",
               "linkInNewWindow": false,
@@ -1391,8 +1408,8 @@
               "size": 250
             }
           },
-          "title": "HTML5,CSS&amp;php",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "HTML5,CSS&amp;php<br>",
+          "text": "<p>content</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1404,7 +1421,7 @@
           "_anchor": "msg-box4-2l",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1420,13 +1437,13 @@
             "overlayColor": "#fff",
             "inverse": false,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-48.jpg",
+              "src": "@PROJECT_PATH@/assets/images/service-ecommerce-11-1400x1400-26.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1446,7 +1463,7 @@
             }
           },
           "title": "&nbsp;E-commerce",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>content</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1458,7 +1475,7 @@
           "_anchor": "msg-box4-2m",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1474,13 +1491,13 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-48.jpg",
+              "src": "@PROJECT_PATH@/assets/images/responsive-web-design-png-image1-1400x785-19.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1500,7 +1517,7 @@
             }
           },
           "title": "RESPONSIVE",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>content</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1512,7 +1529,7 @@
           "_anchor": "msg-box4-3c",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1528,13 +1545,13 @@
             "overlayColor": "#fff",
             "inverse": false,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/website-design-development-security-1400x1120-64.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1554,7 +1571,7 @@
             }
           },
           "title": "SECURE",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>&nbsp;content.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1568,7 +1585,8 @@
             },
             "UL": {
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "contacts4-22",
@@ -1584,8 +1602,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail:digitwebs@gmail.com<br>\nPhone: 8652743614<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;</li><li><br></li><br></ul>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: digitweb@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;ABOUT US</li><li>CONTACT US</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "chowkek@gmail.com",
@@ -1759,7 +1777,7 @@
           "_anchor": "msg-box4-2n",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1781,7 +1799,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-85.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1813,7 +1831,7 @@
           "_anchor": "msg-box4-2o",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1835,7 +1853,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-99.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1867,7 +1885,7 @@
           "_anchor": "msg-box4-2p",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1889,7 +1907,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-99.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1946,7 +1964,7 @@
           "_anchor": "msg-box4-3d",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1968,7 +1986,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallpapersmania-downtr-1400x875-99.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2009,8 +2027,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail:digitwebs@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;</li><li><br></li><br></ul>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: digitweb@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;ABOUT US</li><li>CONTACT US</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "chowkek@gmail.com",
@@ -2402,8 +2420,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail:&nbsp;<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;</li><li>&nbsp;</li><li><br></li><br></ul>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\nEmail: digitweb@gmail.com<br>\nPhone: 918652743614<br>\nFax:&nbsp;",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>&nbsp;HOME</li><li>&nbsp;ABOUT US</li><li>CONTACT US</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "chowkek@gmail.com",
