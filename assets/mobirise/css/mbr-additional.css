@@ -410,8 +410,23 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+#slider-d H2 {
+  color: #ffffff;
+  text-align: center;
+}
+#slider-d P {
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+}
+#features6-2 P {
+  text-align: center;
+}
 #footer1-3 P {
   color: #ffffff;
+}
+#footer1-3 B {
+  font-size: 14px;
 }
 #contacts4-4 P {
   text-align: left;
@@ -593,6 +608,9 @@ h6,
 #footer1-3 P {
   color: #ffffff;
 }
+#footer1-3 B {
+  font-size: 14px;
+}
 #ext_menu-2y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -677,6 +695,9 @@ h6,
 #footer1-30 P {
   color: #ffffff;
 }
+#footer1-30 B {
+  font-size: 14px;
+}
 
 #menu-1x .hide-buttons .nav-btn {
   display: none !important;
@@ -758,9 +779,15 @@ h6,
 #footer1-3 P {
   color: #ffffff;
 }
+#footer1-3 B {
+  font-size: 14px;
+}
 
 #footer1-21 P {
   color: #ffffff;
+}
+#footer1-21 B {
+  font-size: 14px;
 }
 #msg-box8-2j .mbr-section-title,
 #msg-box8-2j p {
@@ -771,6 +798,12 @@ h6,
 }
 #msg-box8-2j .lead P {
   color: #000000;
+}
+#msg-box4-2i H3 {
+  font-size: 46px;
+}
+#msg-box4-2i P {
+  font-size: 17px;
 }
 #contacts4-22 P {
   text-align: left;
@@ -850,8 +883,20 @@ h6,
 #msg-box8-28 .lead P {
   color: #000000;
 }
+#msg-box4-2o H3 {
+  font-size: 46px;
+}
+#msg-box4-2p H3 {
+  font-size: 46px;
+}
 #footer1-24 P {
   color: #ffffff;
+}
+#footer1-24 B {
+  font-size: 14px;
+}
+#msg-box4-3d H3 {
+  font-size: 46px;
 }
 #ext_menu-26 .hide-buttons .nav-btn {
   display: none !important;
