@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -62,15 +62,15 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "10",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.1",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#553982",
                 "contentAlign": "center",
                 "showTitle": true,
@@ -113,7 +113,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -177,15 +177,16 @@
               "name": "desktop",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "webd.html",
               "size": 0,
-              "color": "#0c3e53"
+              "color": "#0c3e53",
+              "newWindow": false
             }
           },
           "title1": "WEB DEVELOPEMENT",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<b>Our goal is not just &nbsp;to build &nbsp;your website but &nbsp;to build which would generate users interest &nbsp;which would capture your &nbsp;investors attention.</b><br><b><br></b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"webd.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -193,15 +194,16 @@
               "name": "mobile",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "webd.html",
               "size": 0,
-              "color": "#27aae0"
+              "color": "#27aae0",
+              "newWindow": false
             }
           },
           "title2": "RESPONSIVE",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "&nbsp;<b>We create that are user friendly and can easily adapt to resolution of any device no matter what you and your customer are using.</b><br><b><br></b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"webd.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -209,15 +211,16 @@
               "name": "tools-2",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "digim.html",
               "size": 0,
-              "color": "#27aae0"
+              "color": "#27aae0",
+              "newWindow": false
             }
           },
           "title3": "DIGITAL MARKETING",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<b>Digital media marketing &nbsp;is an advantage as it has tremendous potential to increase sales.We act as catalyst to enable you reach the right audience.</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"digim.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -225,15 +228,16 @@
               "name": "cart-full",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "webd.html",
               "size": 0,
-              "color": "#27aae0"
+              "color": "#27aae0",
+              "newWindow": false
             }
           },
           "title4": "ECOMMERCE SOLUTIONS",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<b>&nbsp;We create end to end ecommerce that are hand in hand with your business website.We make your ecommerce website accesible to various platforms.</b><br><b><br></b>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"digim.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -323,7 +327,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br>\nEmail: digitweb@gmail.com<br>\nPhone: +9154531546<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +918652743614<br><br>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br><b>\nEmail</b>: <b>digitweb@gmail.com</b><br><b>\nPhone:</b><br><b style=\"line-height: 1.5;\">Rohit</b><span style=\"font-size: 18px; line-height: 1.5;\"> &nbsp;- </span><b style=\"line-height: 1.5;\">+917977065781</b><br><b>Swapnil</b> &nbsp;- <b>+918652743614</b><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">HOME</a></b></li><li><b>&nbsp;<a href=\"contact.html\">ABOUT US</a></b></li><li><b><a href=\"webd.html\">WEB DEVELOPEMENT</a></b></li><li><b><a href=\"webd.html\">DIGITAL MARKETING</a></b></li><li><b><a href=\"contact.html\">CONTACT US</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -477,7 +481,7 @@
     },
     "contact.html": {
       "settings": {
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -691,7 +695,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br>\nEmail: digitweb@gmail.com<br>\nPhone: +9154531546<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +918652743614<br><br>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br><b>\nEmail</b>: <b>digitweb@gmail.com</b><br><b>\nPhone:</b><br><b style=\"line-height: 1.5;\">Rohit</b><span style=\"font-size: 18px; line-height: 1.5;\"> &nbsp;- </span><b style=\"line-height: 1.5;\">+917977065781</b><br><b>Swapnil</b> &nbsp;- <b>+918652743614</b><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">HOME</a></b></li><li><b>&nbsp;<a href=\"contact.html\">ABOUT US</a></b></li><li><b><a href=\"webd.html\">WEB DEVELOPEMENT</a></b></li><li><b><a href=\"webd.html\">DIGITAL MARKETING</a></b></li><li><b><a href=\"contact.html\">CONTACT US</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -755,7 +759,7 @@
     },
     "webd.html": {
       "settings": {
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -1082,7 +1086,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br>\nEmail: digitweb@gmail.com<br>\nPhone: +9154531546<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +918652743614<br><br>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br><b>\nEmail</b>: <b>digitweb@gmail.com</b><br><b>\nPhone:</b><br><b style=\"line-height: 1.5;\">Rohit</b><span style=\"font-size: 18px; line-height: 1.5;\"> &nbsp;- </span><b style=\"line-height: 1.5;\">+917977065781</b><br><b>Swapnil</b> &nbsp;- <b>+918652743614</b><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">HOME</a></b></li><li><b>&nbsp;<a href=\"contact.html\">ABOUT US</a></b></li><li><b><a href=\"webd.html\">WEB DEVELOPEMENT</a></b></li><li><b><a href=\"webd.html\">DIGITAL MARKETING</a></b></li><li><b><a href=\"contact.html\">CONTACT US</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1236,7 +1240,7 @@
     },
     "digim.html": {
       "settings": {
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -1542,36 +1546,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3h",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "contacts4",
           "_styles": {
             "P": {
@@ -1600,7 +1574,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br>\nEmail: digitweb@gmail.com<br>\nPhone: +9154531546<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +918652743614<br><br>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br><b>\nEmail</b>: <b>digitweb@gmail.com</b><br><b>\nPhone:</b><br><b style=\"line-height: 1.5;\">Rohit</b><span style=\"font-size: 18px; line-height: 1.5;\"> &nbsp;- </span><b style=\"line-height: 1.5;\">+917977065781</b><br><b>Swapnil</b> &nbsp;- <b>+918652743614</b><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">HOME</a></b></li><li><b>&nbsp;<a href=\"contact.html\">ABOUT US</a></b></li><li><b><a href=\"webd.html\">WEB DEVELOPEMENT</a></b></li><li><b><a href=\"webd.html\">DIGITAL MARKETING</a></b></li><li><b><a href=\"contact.html\">CONTACT US</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1755,7 +1729,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -1986,7 +1960,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br>\nEmail: digitweb@gmail.com<br>\nPhone: +9154531546<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +918652743614<br><br>",
+          "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; letter-spacing: -1px; line-height: 1.3;\"><b>Contacts</b></span><br><b>\nEmail</b>: <b>digitweb@gmail.com</b><br><b>\nPhone:</b><br><b style=\"line-height: 1.5;\">Rohit</b><span style=\"font-size: 18px; line-height: 1.5;\"> &nbsp;- </span><b style=\"line-height: 1.5;\">+917977065781</b><br><b>Swapnil</b> &nbsp;- <b>+918652743614</b><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">HOME</a></b></li><li><b>&nbsp;<a href=\"contact.html\">ABOUT US</a></b></li><li><b><a href=\"webd.html\">WEB DEVELOPEMENT</a></b></li><li><b><a href=\"webd.html\">DIGITAL MARKETING</a></b></li><li><b><a href=\"contact.html\">CONTACT US</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
