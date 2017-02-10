@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.6",
-    "uniqCompNum": 134,
+    "uniqCompNum": 138,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -71,7 +71,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.2",
-                "overlayColor": "#553982",
+                "overlayColor": "#c1c1c1",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "DIGITWEB",
@@ -86,7 +86,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.1",
+                "overlayOpacity": "0",
                 "overlayColor": "#475577",
                 "contentAlign": "left",
                 "showTitle": true,
@@ -827,7 +827,7 @@
             "showButton": false
           },
           "title": "WEB DEVELOPEMENT",
-          "text": "LATEST TECHNOLOGICAL TRENDS",
+          "text": "LATEST TECHNOLOGICAL TRENDS &nbsp;&amp; FEATURES",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -841,7 +841,9 @@
               "font-size": "46px"
             },
             "P": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box4-2i",
@@ -889,8 +891,8 @@
             }
           },
           "title": "HTML5,CSS&amp;PHP<br>",
-          "text": "<p>content</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>HTML5 includes detailed processing models to encourage more interoperable implementations; it extends, improves and rationalizes the markup available for documents, and introduces markup and application programming interfaces (APIs) for complex web applications.[6] For the same reasons, HTML5 is also a candidate for cross-platform mobile applications, because it includes features designed with low-powered devices in mind</b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -943,8 +945,15 @@
             }
           },
           "title": "&nbsp;E-commerce",
-          "text": "<p>content</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>E-commerce is a transaction of buying or selling online. Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. Modern electronic commerce typically uses the World Wide Web for at least one part of the transaction's life cycle although it may also use other technologies such as e-mail.</b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "right"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -997,8 +1006,14 @@
             }
           },
           "title": "RESPONSIVE",
-          "text": "<p>content</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>Responsive web design (RWD) is an approach to web design aimed at allowing desktop webpages to be viewed in response to the size of the screen or web browser one is viewing with.&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.Therefore, Google announced Mobilegeddon &nbsp;and started to boost the ratings of sites that are mobile friendly if the search was made from a mobile device. Responsive web design is an example of user interface plasticity.</b></span></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1052,7 +1067,45 @@
           },
           "title": "SECURE",
           "text": "<p>&nbsp;content.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Request quote</a>",
+          "title": "Any queries contact us",
+          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_tags": [
@@ -1280,7 +1333,7 @@
             "showButton": false
           },
           "title": "DIGITAL MARKETING",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>LATEST TECHNOLOGICAL TRENDS  &amp; FEATURES.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1334,8 +1387,14 @@
             }
           },
           "title": "SEARCH ENGINE OPTIMIZATION(SEO)",
-          "text": "<p>content</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>Search engine optimization (SEO) is the process of affecting the visibility of a website or a web page in a web search engine's unpaid results—often referred to as \"natural\", \"organic\", or \"earned\" results. In general, the earlier (or higher ranked on the search results page), and more frequently a site appears in the search results list, the more visitors it will receive from the search engine's users, and these visitors can be converted into customers.[1] SEO may target different kinds of search, including image search, local search, video search, academic search,[2] news search and industry-specific vertical search engines.</b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1346,6 +1405,10 @@
           "_styles": {
             "H3": {
               "font-size": "46px"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box4-2o",
@@ -1393,8 +1456,8 @@
             }
           },
           "title": "BLOG",
-          "text": "<p>content.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>A blog (a truncation of the expression weblog) is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (\"posts\"). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. &nbsp;occasionally of a small group, and often covered a single subject or topic. In the 2010s, \"multi-author blogs\" (MABs) have developed, with posts written by large numbers of authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic.</b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1405,6 +1468,10 @@
           "_styles": {
             "H3": {
               "font-size": "46px"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box4-2p",
@@ -1452,8 +1519,8 @@
             }
           },
           "title": "EMAIL MARKETING",
-          "text": "<p>content</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>Email marketing is sending a commercial message, typically to a group of people, using email. In its broadest sense, every email sent to a potential or current customer could be considered email marketing. It usually involves using email to send advertisements, request business, or solicit sales or donations, and is meant to build loyalty, trust, or brand awareness. Email marketing can be done to either sold lists or a current customer database.</b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -1492,6 +1559,10 @@
           "_styles": {
             "H3": {
               "font-size": "46px"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "msg-box4-3d",
@@ -1539,8 +1610,46 @@
             }
           },
           "title": "GOOGLE &nbsp;ADWORDS",
-          "text": "<p>content.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<p><b>Google AdWords is an online advertising service where advertisers pay to display brief advertising copy to web users. Google AdWords' system is partly based on cookies and keywords predefined by the advertisers. Web pages from Google and from partner websites are designed to allow Google to select and display the advertising copy selected. Advertisers pay when users divert their browsing to seek more information about the copy displayed, and partner websites receive a portion of the income that is generated</b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Request quote</a>",
+          "title": "Any queries contact us",
+          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_tags": [

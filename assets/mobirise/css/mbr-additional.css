@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
@@ -596,6 +597,9 @@ h6,
   font-size: 16px;
 }
 
+
+
+
 #footer1-21 P {
   color: #ffffff;
 }
@@ -617,6 +621,20 @@ h6,
 }
 #msg-box4-2i P {
   font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-2l P {
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+}
+#msg-box4-2m P {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box2-3r .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-3r .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #contacts4-22 P {
   text-align: left;
@@ -699,6 +717,10 @@ h6,
   color: #c0a375!important;
 }
 
+
+
+
+
 #msg-box8-28 .mbr-section-title,
 #msg-box8-28 p {
   color: #fff;
@@ -709,11 +731,20 @@ h6,
 #msg-box8-28 .lead P {
   color: #000000;
 }
+#msg-box4-2n P {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box4-2o H3 {
   font-size: 46px;
 }
+#msg-box4-2o P {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box4-2p H3 {
   font-size: 46px;
+}
+#msg-box4-2p P {
+  font-family: 'Open Sans', sans-serif;
 }
 #footer1-24 P {
   color: #ffffff;
@@ -723,6 +754,15 @@ h6,
 }
 #msg-box4-3d H3 {
   font-size: 46px;
+}
+#msg-box4-3d P {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box2-3s .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-3s .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #contacts4-25 P {
   text-align: left;
